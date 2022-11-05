@@ -1,8 +1,9 @@
 package address;
 import java.util.Scanner;
-public class Contact 
-{
-	String firstName;
+
+public class Contact {
+    ////variables representation////
+    String firstName;
     String lastName;
     String address;
     String city;
